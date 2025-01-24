@@ -1,6 +1,6 @@
 # Product Management
 
-A Product Management for Siskom Test
+A Product Management for Test
 
 ## Getting Started
 
